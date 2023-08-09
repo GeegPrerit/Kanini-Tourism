@@ -1,0 +1,6 @@
+.plan-image {
+    width: 50%; /* Set the desired width */
+    height: 50%; /* Maintain the aspect ratio */
+    border-radius: 5px; /* Add rounded corners if needed */
+  }
+  

@@ -1,0 +1,21 @@
+/* *{
+  color: white;
+  
+} */
+.custom-navbar {
+  background-color: #008080; /* Replace with your desired background color */
+  }
+  .card-img-top-left{
+    height: 50px;
+    width:50px;
+    margin-left: 20px;
+  }
+  button.btn.btn-link {
+    width: 100%;
+}
+  
+
+   /* #logo{
+    mix-blend-mode:luminosity;
+
+   } */
