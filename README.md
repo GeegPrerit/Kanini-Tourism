@@ -88,10 +88,10 @@ Feel free to further customize and expand upon this README as needed to provide 
 ###Screenshots
 
 ### Home Page
-[Screenshot 2023-08-09 140636](https://github.com/GeegPrerit/Kanini-Tourism/assets/127297823/cde83a20-93bc-4a4f-824d-13f136013439)
+![Screenshot 2023-08-09 140636](https://github.com/GeegPrerit/Kanini-Tourism/assets/127297823/cde83a20-93bc-4a4f-824d-13f136013439)
 
 ### Login Page
-[Screenshot 2023-08-09 140602](https://github.com/GeegPrerit/Kanini-Tourism/assets/127297823/789c8380-932b-418a-b6a9-da17f59c5aa4)
+![Screenshot 2023-08-09 140602](https://github.com/GeegPrerit/Kanini-Tourism/assets/127297823/789c8380-932b-418a-b6a9-da17f59c5aa4)
 
 ### Tour Page
 ![Screenshot 2023-08-09 140838](https://github.com/GeegPrerit/Kanini-Tourism/assets/127297823/8a5b49a8-12a0-4509-be76-e25d09264460)
