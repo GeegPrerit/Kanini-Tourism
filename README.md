@@ -56,7 +56,7 @@ Before running the project, ensure you have the following software installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/make-your-trip.git
+   git clone https://github.com/GeegPrerit/Kanini-Tourism.git
    cd make-your-trip
 
 2. Install dependencies:
